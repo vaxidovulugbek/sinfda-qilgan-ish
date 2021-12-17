@@ -27,16 +27,11 @@
   text-decoration: none;
   color: #fff;
   margin-right: 10px;
-  display: inline;
-  /* width: 50px ;
-  height: 22px; */
 }
 .header-li-a2{
   text-decoration: none;
   color: #fff;
   margin-right: 24px;
-  /* width: 102px;
-  height: 22px; */
 }
 .header-a{
   width: 92px;
@@ -76,8 +71,6 @@
 .section2-div-h2{
   font-size: 48px;
   color:#163A24;
-  width: 315px;
-  height: 108px;
   margin-top: 261px;
   margin-right: 167px;
 }
@@ -93,10 +86,7 @@
 .section2-right-h2{
   font-size: 48px;
   color:#163A24;
-  width: 376px;
-  height: 108px;
   margin: 115px 118px 27px 98px;
-  /* Line-height :54px; */
 }
 .section2-right-p{
   font-size: 18px;
@@ -293,8 +283,6 @@
 .section8-left-h2{
   font-size: 48px;
   color:#163A24;
-  width: 360px;
-  height: 108px;
 }
 .section8-left-p{
   font-size: 18px;
@@ -327,8 +315,7 @@
 .section9-div-h2{
   font-size: 48px;
   color:#FBFAF7;
-  width: 549px;
-  height: 54px;
+  
 }
 .section9-div-p{
   font-size: 18px;
@@ -357,8 +344,6 @@
 .section10-h2{
   font-size: 48px;
   color: #163A24;
-  width: 342px;
-  height: 54px;
 }
 .section10-p{
   font-size: 18px;
