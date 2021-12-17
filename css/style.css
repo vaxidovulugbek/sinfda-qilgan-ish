@@ -278,10 +278,11 @@
   display: flex;
 }
 .section8-div-left{
-  padding: 136px 132px 146px 98px;
+  padding: 100px 132px 146px 98px;
 }
 .section8-left-h2{
-  font-size: 48px;
+  font-size: 42px;
+  height: 100px;
   color:#163A24;
 }
 .section8-left-p{
