@@ -6,22 +6,19 @@
 }
  body{
   font-family: 'Recoleta';
+  margin: 0;
 } 
 .header{
   display: flex;
   background: #163A24;
 }
-.header-logo{
+.header-logo{ 
  margin-top: 23px;
  margin-bottom: 34px;
   margin-right: 678px;
 }
-.header-ul{
-  display: flex;
+.header-div{
   margin-top: 41px;
-}
-.header-li{
-  list-style: none;
 }
 .header-li-a1{
   text-decoration: none;
